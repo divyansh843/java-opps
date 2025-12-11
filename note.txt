@@ -1,0 +1,32 @@
+# OOPS in Java
+OOP = Object Oriented Programming
+Java ki poori backbone OOP hai.
+OOP ek programming style hai jisme hum real-life चीजों को code की form में model करते हैं.
+
+# Why do we need OOP?
+1️⃣ Code Reusability
+Ek parent class bana ke usse child classes use kar sakti hain.
+
+2️⃣ Data Security
+Private data + getters/setters → secure data.
+
+3️⃣ Maintainability
+Problem solve karna easy.
+
+4️⃣ Faster Development
+Team me alag-alag log alag classes par kaam kar sakte hain.
+
+# OOP ka Working Style
+OOP ke andar sab kuch revolve karta hai:
+Class (design)
+Object (real entity)
+Constructor (object initialise)
+Pillars (Encapsulation, Inheritance, Polymorphism, Abstraction)
+
+# What is a Class? (Actual, Deep Meaning)
+✔ Class = Blueprint / Design / Template
+Class ek design hai jisse hum objects banate hain.
+
+Think real-life:
+“Car” ek design hai
+“BMW”, “Thar”, “Swift” → objects
