@@ -30,3 +30,36 @@ Class ek design hai jisse hum objects banate hain.
 Think real-life:
 “Car” ek design hai
 “BMW”, “Thar”, “Swift” → objects
+
+# What is an Object?
+Object = class ka instance
+Object memory me real exist karta hai.
+
+# What is a Constructor?
+A. Definition:
+Constructor ek special method hota hai jo object ko initialize karta hai.
+
+Initialize = Object ke variables ki initial values set karna.
+
+B. Important Properties of Constructor
+Constructor ka naam class ke naam jaisa hota hai
+Constructor ka koi return type nahi hota
+Object create hote hi automatically call hota hai
+new keyword ke saath work karta hai
+
+C. Types of Constructors
+Java me 3 types of constructors hote hain:
+
+Default Constructor (Compiler generated)
+Agar tum class me constructor nahi likhte,
+Java compiler ek default constructor banata hai.
+
+No-Argument / User-defined Default Constructor
+Tum khud constructor define karo without parameters:
+
+Parameterized Constructor
+Object banate waqt values pass karte hain.
+
+Copy Constructor (Java me manually banaya jata hai)
+Java automatic copy constructor nahi deta.
+Tum khud banate ho:
